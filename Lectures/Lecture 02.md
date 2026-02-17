@@ -1,4 +1,4 @@
-> Part 1 of 2, see [[Lecture 02b]]
+> Part 1 of 2, see [[Lecture 03]]
 
 One major principle of good software design: 
 - Avoid having duplicate code or very similar code at different places in your software project
@@ -156,4 +156,4 @@ public interface SortedList<E extends Comparable<E>> extends List<E> {
 
 We can use bounded types only in the declaration of the type parameter (and nowhere else in the generic type).
 
-> Continued in [[Lecture 02b]]
+> Continued in [[Lecture 03]]

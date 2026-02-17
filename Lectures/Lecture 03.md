@@ -1,4 +1,4 @@
-> Part 2 of 2, see [[Lecture 02a]]
+> Part 2 of 2, see [[Lecture 02]]
 
 One major principle of good software design:
 - Use exceptions to signal invalid states, not ambiguous return values
