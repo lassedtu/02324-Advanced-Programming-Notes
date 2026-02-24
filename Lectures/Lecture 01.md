@@ -16,7 +16,7 @@ class PosName {
 }
 ```
 
-![[Example_1.png | center]]
+![[L1_Example_1.png | center]]
 
 ``` Java
 class Test {
